@@ -5,4 +5,4 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
   Binance Spot UI
 -->
-
+Simple UI for one-click spot trading
